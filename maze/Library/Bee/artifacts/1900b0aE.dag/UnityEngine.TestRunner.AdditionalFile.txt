@@ -1,1 +1,1 @@
-C:\Users\User\maze
+C:\Users\User\Documents\GitHub\midterm-3DMaze\maze
